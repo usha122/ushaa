@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>the first page</title>
+    <title>thefirst page</title>
   </head>
   <body>
     hello world
